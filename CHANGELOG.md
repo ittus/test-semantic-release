@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ittus/test-semantic-release/compare/v1.0.0...v1.1.0) (2020-09-14)
+
+
+### Features
+
+* second change ([e1f95ed](https://github.com/ittus/test-semantic-release/commit/e1f95ed107054c3fb3ef5e1ec1da678d6b1beeaf))
+
 # 1.0.0 (2020-09-14)
 
 
