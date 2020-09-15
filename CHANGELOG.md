@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ittus/test-semantic-release/compare/v1.1.0...v1.1.1) (2020-09-15)
+
+
+### Bug Fixes
+
+* **classification:** fix the first bug ([d59b21f](https://github.com/ittus/test-semantic-release/commit/d59b21fc090453fd9da0a8e95cb832302f5d40f6))
+
 # [1.1.0](https://github.com/ittus/test-semantic-release/compare/v1.0.0...v1.1.0) (2020-09-14)
 
 
