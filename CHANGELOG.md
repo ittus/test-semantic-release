@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/ittus/test-semantic-release/compare/v1.1.1...v1.2.0) (2020-09-16)
+
+
+### Features
+
+* 2nd bug ([58c5242](https://github.com/ittus/test-semantic-release/commit/58c5242dc4d31d14a3374c1aa350844823fe87a2))
+* add cache to ci ([8abf00d](https://github.com/ittus/test-semantic-release/commit/8abf00de4af509b00a0bd06ca12f5810a8de2810))
+* change README.md ([cf5f2c3](https://github.com/ittus/test-semantic-release/commit/cf5f2c354c444812f3be3f10cca45a30a5fdafc6))
+
 ## [1.1.1](https://github.com/ittus/test-semantic-release/compare/v1.1.0...v1.1.1) (2020-09-15)
 
 
