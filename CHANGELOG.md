@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/ittus/test-semantic-release/compare/v1.2.0...v1.3.0) (2020-09-17)
+
+
+### Features
+
+* fix registry name ([bbe3d5a](https://github.com/ittus/test-semantic-release/commit/bbe3d5a6be088f5942deeb0a3cd12fdda70112a2))
+* Publish to Github Package ([4a087bc](https://github.com/ittus/test-semantic-release/commit/4a087bca73b792d254011f40dbe7174727abbde3))
+
 # [1.2.0](https://github.com/ittus/test-semantic-release/compare/v1.1.1...v1.2.0) (2020-09-16)
 
 
