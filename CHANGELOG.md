@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/ittus/test-semantic-release/compare/v1.3.1...v1.3.2) (2020-09-17)
+
+
+### Bug Fixes
+
+* npm registry url ([af73370](https://github.com/ittus/test-semantic-release/commit/af733701216b3e3b7394416af5db8986618cfee3))
+
 ## [1.3.1](https://github.com/ittus/test-semantic-release/compare/v1.3.0...v1.3.1) (2020-09-17)
 
 

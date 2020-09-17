@@ -1,7 +1,7 @@
 {
   "name": "test-semantic-release",
   "private": false,
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "- First change",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ittus/test-semantic-release#readme",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/ittus"
+    "registry": "https://npm.pkg.github.com/ittus"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
