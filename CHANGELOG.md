@@ -1,3 +1,10 @@
+# [1.4.0-beta.1](https://github.com/ittus/test-semantic-release/compare/v1.3.3...v1.4.0-beta.1) (2020-09-17)
+
+
+### Features
+
+* support beta ([99ac8db](https://github.com/ittus/test-semantic-release/commit/99ac8dbf32888f078ba3f2a90b64fea1641db021))
+
 ## [1.3.3](https://github.com/ittus/test-semantic-release/compare/v1.3.2...v1.3.3) (2020-09-17)
 
 
