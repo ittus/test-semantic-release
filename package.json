@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ittus/test-semantic-release#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry":"https://npm.pkg.github.com/ittus"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
