@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/ittus/test-semantic-release/compare/v1.3.0...v1.3.1) (2020-09-17)
+
+
+### Bug Fixes
+
+* remove restricted ([c43e511](https://github.com/ittus/test-semantic-release/commit/c43e511304275dbc934ccdeceebff6c45f1adbc7))
+
 # [1.3.0](https://github.com/ittus/test-semantic-release/compare/v1.2.0...v1.3.0) (2020-09-17)
 
 
