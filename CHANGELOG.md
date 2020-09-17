@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/ittus/test-semantic-release/compare/v1.3.2...v1.3.3) (2020-09-17)
+
+
+### Bug Fixes
+
+* package name ([30e9640](https://github.com/ittus/test-semantic-release/commit/30e9640dd430f5ca4cb219adfa1702cace6a17f8))
+
 ## [1.3.2](https://github.com/ittus/test-semantic-release/compare/v1.3.1...v1.3.2) (2020-09-17)
 
 
