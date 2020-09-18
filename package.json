@@ -1,7 +1,7 @@
 {
   "name": "@ittus/test-semantic-release",
   "private": false,
-  "version": "1.4.0-beta.2",
+  "version": "1.4.0",
   "description": "- First change",
   "main": "index.js",
   "scripts": {
