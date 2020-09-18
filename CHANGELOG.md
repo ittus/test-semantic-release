@@ -1,3 +1,10 @@
+# [1.5.0-beta.1](https://github.com/ittus/test-semantic-release/compare/v1.4.0...v1.5.0-beta.1) (2020-09-18)
+
+
+### Features
+
+* 6th feature ([5a97194](https://github.com/ittus/test-semantic-release/commit/5a9719447866ce431c828915057e569c2bd38fde))
+
 # [1.4.0](https://github.com/ittus/test-semantic-release/compare/v1.3.3...v1.4.0) (2020-09-18)
 
 
